@@ -1,4 +1,5 @@
-# Proyecto Fotografias
+# Proyecto Fotografias 
+
 
 **STATUS** ![EN DESARROLLO](https://img.shields.io/badge/STATUS-EN_DESARROLLO-blue)
 
@@ -8,9 +9,10 @@
 
 En esta sección irán las listas de actividades enumeradas:
 
-- Frontend ![STATUS](https://img.shields.io/badge/STATUS-EN_Proceso-orange)
+- Frontend ![STATUS](https://img.shields.io/badge/STATUS-EN_Proceso-green)
 - Backend ![STATUS](https://img.shields.io/badge/STATUS-EN_Proceso-orange)
-- Base de Datos ![STATUS](https://img.shields.io/badge/STATUS-EN_DESARROLLO-green)
+- Base de Datos ![STATUS](https://img.shields.io/badge/STATUS-EN_DESARROLLO-red)
+
 
 ### Lista de actividades concluidas
 
